@@ -1,8 +1,9 @@
 # Aditya's First CS193 Homework
 
- - these are some
- - bullet
- - points
+## My Favorite things about CS193:
+ - Student Taught
+ - Covers practical, industry tools
+ - Meets only once a week :)
 
 
 ## Welcome to GitHub Pages
